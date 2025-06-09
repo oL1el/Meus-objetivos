@@ -58,3 +58,7 @@ body {
 .botoes {
   display: block;
 }
+.contador {
+  font-size: 20px;
+  text-align: center;
+}
